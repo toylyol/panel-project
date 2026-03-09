@@ -1,0 +1,17 @@
+---
+title: "Patient Panel Dashboard"
+format: html
+---
+
+
+```{r}
+#| echo: false
+
+library(duckplyr)
+library(here)
+
+# Use 
+
+```
+
+
